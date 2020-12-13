@@ -1,0 +1,15 @@
+{
+	"name": "Clock",
+	"short_name": "Clock",
+	"description": "Clock",
+	"icons": [{
+		"src": "/icon.png",
+		"type": "image/png",
+		"sizes": "512x512"
+	}],
+	"start_url": "/",
+	"background_color": "black",
+	"display": "fullscreen",
+	"scope": "/",
+	"theme_color": "black"
+}

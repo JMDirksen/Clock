@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	margin: 0px;
+}
+
+div {
+	color: CornFlowerBlue;
+    font-family: "Courier New";
+	font-weight: bold;
+	text-shadow: 5px 5px 20px;
+	text-align: center;
+	width: 100%
+}
+
+#time {
+	display: block;
+	font-size: 200px;
+}
+
+#date {
+	display: block;
+	font-size: 50px;
+}
